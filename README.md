@@ -53,7 +53,7 @@ Todos os exercícios foram feitos utilizando Python, a partir dos estudos da bib
 **Laborátorio 7:** Exercício que tem como função explorar de forma prática detecção de rostos e características faciais utilizando o classificador HaarCascade.
 
 ### Autoencoder
-**Laborátorio 8:** Exercício para detecção de números pares e ímpares utilizando a plataforma tensorflow para treinamento de redes neurais e o Keras API.
+**Laborátorio 8:** Implementação de um Autoencoder Convolucional utilizando TensorFlow e Keras para reconstrução de imagens. O modelo é treinado utilizando o conjunto de dados MNIST explorando camadas convolucionais, extração de características e técnicas de reconstrução de imagens.
 
 ## References
 
